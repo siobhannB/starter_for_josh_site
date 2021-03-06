@@ -35,3 +35,17 @@ color:#ed7d1e;
     background: url(images/header-bg.jpg);
     background-size: cover;
 }
+
+.herobg h1{
+    float:right;
+    color:#ffff;
+    width:341px;
+    font-size:6.1em;
+    letter-spacing: -10px;
+    font-weight: 800;
+    line-height:75%;
+    margin-top:140px;
+    text-align:right;
+    padding-bottom:10%;
+    
+}
