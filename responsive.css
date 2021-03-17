@@ -16,7 +16,7 @@
     
     float:none;
     width:100%;
-    font-size:6.1em;
+    font-size:5.125em;
     letter-spacing: -10px;
     margin-top:60%;
     text-align:center;
@@ -37,7 +37,7 @@
     .about-text {
         margin-left:0px;
         margin-right: 0px;
-        font-size: 1.1em;
+        font-size: 1.0em;
     }
     
     .particle {
