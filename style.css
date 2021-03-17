@@ -18,7 +18,8 @@ body{
     font-family: arial, sans-serif;
 }
 
-.navbar{font-size:0.875em;
+.navbar{
+    font-size:0.875em;
 }
 
 a{
