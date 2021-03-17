@@ -20,6 +20,7 @@ body{
 
 .navbar{
     font-size:0.875em;
+    margin-bottom:0px;
 }
 
 a{
@@ -39,8 +40,10 @@ color:#ed7d1e;
     font-size:2.0em;
 }
 
-.josh{
-    font-size:7.em;
+.navbar-brand{
+    font-size:2.5em;
+    font-weight:bolder;
+    letter-spacing: -3px;
 }
     
 .navbar-toggle .icon-bar {
@@ -48,21 +51,21 @@ color:#ed7d1e;
 }
 
 .herobg{
-    background: url(images/header-bg.jpg);
+    background: url("images/header-bg.jpg") no-repeat center center;
     background-size: cover;
     background-position: -100px center;
 }
 
 .herobg h1{
     font-family: 'Raleway', sans-serif;
-    float:none;
+    float:right;
     color:#ffff;
-    width:100%;
-    font-size:7.1em;
+    width:341px;
+    font-size:7.125em;
     letter-spacing: -10px;
     font-weight: 800;
     line-height:75%;
-    margin-top:60%;
+    margin-top:140px;
     text-align:right;
     padding-bottom:10%;
     
