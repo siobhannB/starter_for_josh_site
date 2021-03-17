@@ -12,11 +12,11 @@
 
 
 
-    <section class="container-fluid ">
+    <section class="container-fluid articlesbg">
         <div class="container">
             <div class="row"><!--  a row that gives us access to the BS columns-->
-                       <div class="article-title text-center">
-                    <h3>LATEST ARTICLES</h3>
+                       <div> 
+                    <h3 class="text-center article-title"> LATEST ARTICLES</h3>
                 </div>
                 <div class="col-md-4 article-cent">
                                         <img class="img-responsive" alt=“portrait” src="http://206.189.45.97/~mesh5/wp-content/themes/starter_for_josh_site/images/portrait.jpg">
