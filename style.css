@@ -37,11 +37,13 @@ color:#ed7d1e;
 
 .orange{
     color:darkorange;
-    font-size:2.0em;
+    
 }
 
-.josh{
-    font-size:2.0em;
+.navbar-brand{
+    font-size:2.5em;
+    font-weight: bolder;
+    letter-spacing: -3px;
 }
     
 .navbar-toggle .icon-bar {
@@ -51,7 +53,7 @@ color:#ed7d1e;
 .herobg{
     background: url("images/header-bg.jpg") no-repeat center center;
     background-size: cover;
-    background-position: -100px center;
+    background-position: center;
 }
 
 .herobg h1{
@@ -130,7 +132,7 @@ h4{
 
 .readmore{
     color:#a19ba6
-    font-size:0.9em;
+    font-size: 0.9em;
     margin-bottom:40px;
 }
 
