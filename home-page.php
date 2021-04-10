@@ -30,7 +30,7 @@
                       <h4><?php the_field('articletitle'); ?></h4>
                     <p><?php the_field('articleexcerpt'); ?> </p>
           <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
-                    
+                     
                 </div>
                 <div class="col-md-4 article-cent">
 
