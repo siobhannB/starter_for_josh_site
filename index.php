@@ -2,7 +2,9 @@
      <section class="container-fluid aboutbg text-center">
         <div class="container">
             
-                    
+<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('main_tag') ) : 
+endif; ?>
+            
 <?php
 global $more;//define a global variable
 $more = 0;// the global varibale is now equal to 0
